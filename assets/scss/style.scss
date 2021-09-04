@@ -36,6 +36,7 @@
 32. White Version
 ----------------------------*/
 
+
 /* Default  */
 
 @import'default/variables';
@@ -50,20 +51,20 @@
 @import'default/text-animation';
 
 /* Header  */
+
 @import'header/header';
 @import'header/nav';
 @import'header/mobilemenu';
 @import'header/rightdemo';
 
-
-
 /* Elements  */
+
 @import'elements/button';
 @import'elements/accordion';
 @import'elements/section-title';
 @import'elements/banner';
 @import'elements/service';
-@import 'elements/modal';
+@import'elements/modal';
 @import'elements/skill';
 @import'elements/progressbar';
 @import'elements/testimonial';
