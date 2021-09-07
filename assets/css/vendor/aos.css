@@ -562,9 +562,9 @@ body[data-aos-delay="1250"] [data-aos].aos-animate {
 @media screen and (max-width: 480px) {
     [data-aos][data-aos][data-aos-delay="1250"].aos-animate,
     body[data-aos-delay="1250"] [data-aos].aos-animate {
-        -webkit-transition-delay: 0.625s;
-        -o-transition-delay: 0.625s;
-        transition-delay: 0.625s;
+        -webkit-transition-delay: 0.5s;
+        -o-transition-delay: 0.5s;
+        transition-delay: 0.5s;
     }
 }
 
@@ -676,9 +676,9 @@ body[data-aos-delay="1500"] [data-aos].aos-animate {
 @media screen and (max-width: 480px) {
     [data-aos][data-aos][data-aos-delay="1500"].aos-animate,
     body[data-aos-delay="1500"] [data-aos].aos-animate {
-        -webkit-transition-delay: 0.75s;
-        -o-transition-delay: 0.75s;
-        transition-delay: 0.75s;
+        -webkit-transition-delay: 0.5s;
+        -o-transition-delay: 0.5s;
+        transition-delay: 0.5s;
     }
 }
 
@@ -790,9 +790,9 @@ body[data-aos-delay="1750"] [data-aos].aos-animate {
 @media screen and (max-width: 480px) {
     [data-aos][data-aos][data-aos-delay="1750"].aos-animate,
     body[data-aos-delay="1750"] [data-aos].aos-animate {
-        -webkit-transition-delay: 0.875s;
-        -o-transition-delay: 0.875s;
-        transition-delay: 0.875s;
+        -webkit-transition-delay: 0.5s;
+        -o-transition-delay: 0.5s;
+        transition-delay: 0.5s;
     }
 }
 
@@ -904,9 +904,9 @@ body[data-aos-delay="2000"] [data-aos].aos-animate {
 @media screen and (max-width: 480px) {
     [data-aos][data-aos][data-aos-delay="2000"].aos-animate,
     body[data-aos-delay="2000"] [data-aos].aos-animate {
-        -webkit-transition-delay: 1s;
-        -o-transition-delay: 1s;
-        transition-delay: 1s;
+        -webkit-transition-delay: 0.5s;
+        -o-transition-delay: 0.5s;
+        transition-delay: 0.5s;
     }
 }
 
@@ -1018,9 +1018,9 @@ body[data-aos-delay="2250"] [data-aos].aos-animate {
 @media screen and (max-width: 480px) {
     [data-aos][data-aos][data-aos-delay="2250"].aos-animate,
     body[data-aos-delay="2250"] [data-aos].aos-animate {
-        -webkit-transition-delay: 1s;
-        -o-transition-delay: 1s;
-        transition-delay: 1s;
+        -webkit-transition-delay: 0.5s;
+        -o-transition-delay: 0.5s;
+        transition-delay: 0.5s;
     }
 }
 
@@ -1132,9 +1132,9 @@ body[data-aos-delay="2500"] [data-aos].aos-animate {
 @media screen and (max-width: 480px) {
     [data-aos][data-aos][data-aos-delay="2500"].aos-animate,
     body[data-aos-delay="2500"] [data-aos].aos-animate {
-        -webkit-transition-delay: 1s;
-        -o-transition-delay: 1s;
-        transition-delay: 1s;
+        -webkit-transition-delay: 0.5s;
+        -o-transition-delay: 0.5s;
+        transition-delay: 0.5s;
     }
 }
 
@@ -1246,9 +1246,9 @@ body[data-aos-delay="2750"] [data-aos].aos-animate {
 @media screen and (max-width: 480px) {
     [data-aos][data-aos][data-aos-delay="2750"].aos-animate,
     body[data-aos-delay="2750"] [data-aos].aos-animate {
-        -webkit-transition-delay: 1s;
-        -o-transition-delay: 1s;
-        transition-delay: 1s;
+        -webkit-transition-delay: 0.5s;
+        -o-transition-delay: 0.5s;
+        transition-delay: 0.5s;
     }
 }
 
@@ -1360,9 +1360,9 @@ body[data-aos-delay="3000"] [data-aos].aos-animate {
 @media screen and (max-width: 480px) {
     [data-aos][data-aos][data-aos-delay="3000"].aos-animate,
     body[data-aos-delay="3000"] [data-aos].aos-animate {
-        -webkit-transition-delay: 1s;
-        -o-transition-delay: 1s;
-        transition-delay: 1s;
+        -webkit-transition-delay: 0.5s;
+        -o-transition-delay: 0.5s;
+        transition-delay: 0.5s;
     }
 }
 
