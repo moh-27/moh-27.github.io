@@ -13762,26 +13762,40 @@ figcaption {
 }
 
 .slider-style-6 h1 {
-  font-size: 48px;
-  margin-bottom: 0;
+  font-size: 100%;
+  font-size: 6vw !important;
 }
 
 @media only screen and (max-width: 767px) {
   .slider-style-6 h1 {
-    font-size: 38px;
+    font-size: 6vw !important;
     margin-bottom: 10px;
   }
 }
 
 .slider-style-6 .cd-headline span {
-  font-size: 30px;
+  font-size: 35px;
   color: var(--color-lightn);
+}
+
+@media only screen and (max-width: 767px) {
+  .slider-style-6 .cd-headline span {
+    font-size: 20px;
+  }
 }
 
 .slider-style-6 .cd-headline .cd-words-wrapper b {
   font-weight: 300;
-  font-size: 30px;
+  font-size: 35px;
   color: var(--color-primary);
+  padding-top: 8px;
+}
+
+@media only screen and (max-width: 767px) {
+  .slider-style-6 .cd-headline .cd-words-wrapper b {
+    font-size: 20px;
+    padding-top: 0px;
+  }
 }
 
 .slider-style-6 .button-area {
