@@ -1,5 +1,4 @@
 // Tab Area Start----->
-
 .tab-navigation-button {
     float: left;
     box-shadow: var(--shadow-1);
@@ -8,7 +7,6 @@
     width: 100%;
     height: auto;
     flex-wrap: nowrap;
-
     @media #{$lg-layout} {
         height: auto;
     }
@@ -44,7 +42,6 @@
             align-items: center;
             transition: 0.3s;
             justify-content: center;
-
             @media #{$lg-layout} {
                 height: auto;
                 padding: 15px 20px;
@@ -64,10 +61,10 @@
                 color: var(--color-primary);
                 background-color: #212428;
             }
-            &.rn-nav{
+            &.rn-nav {
                 &:hover,
                 &:focus,
-                &.active{
+                &.active {
                     box-shadow: none;
                     color: #ffffff !important;
                     background: var(--color-primary) !important;
@@ -92,50 +89,44 @@
 .rn-client-area {
     .section-title {
         text-align: left;
-
         @media #{$sm-layout} {
             text-align: center !important;
         }
     }
 }
 
+
 /*------------------------------
     Client Single Card 
 --------------------------------*/
+
 .client-card {
     display: flex;
     flex-wrap: wrap;
     margin: 0 -15px;
     margin-top: -30px;
-
     @media #{$small-mobile} {
         padding: 0 20px;
     }
-
     .main-content {
         margin-top: 30px;
         flex-basis: 33.33%;
         padding: 0 15px;
-
         @media #{$sm-layout} {
             flex-basis: 50%;
         }
-
         @media #{$large-mobile} {
             flex-basis: 50%;
         }
-
         @media #{$small-mobile} {
             flex-basis: 100%;
         }
-
         .inner {
             background: var(--background-color-1);
             box-shadow: var(--shadow-1);
             border-radius: 10px;
             position: relative;
             z-index: 2;
-
             &::after {
                 content: '';
                 position: absolute;
@@ -169,11 +160,9 @@
                 }
             }
         }
-
         .seperator {
             position: relative;
             z-index: 2;
-
             &::after {
                 content: '';
                 position: absolute;
@@ -185,19 +174,15 @@
                 z-index: -1;
             }
         }
-
         .client-name {
             padding: 16px;
             color: #7c838e;
-
             a {
                 transition: var(--transition);
                 color: #7c838e;
-
                 &:hover {
                     color: var(--color-primary);
                 }
-
                 span {
                     color: var(--color-light);
                     font-size: 16px;
@@ -207,35 +192,29 @@
     }
 }
 
-
 .rn-brand {
     flex-basis: 33.33%;
     padding: 0 15px;
-
     @media #{$sm-layout} {
         flex-basis: 50%;
     }
-
     @media #{$large-mobile} {
         flex-basis: 50%;
     }
-
     @media #{$small-mobile} {
         flex-basis: 100%;
     }
-
     .inner {
         background: var(--background-color-1);
         box-shadow: var(--shadow-1);
         border-radius: 10px;
         position: relative;
         z-index: 2;
-        &.smlg-brand{
+        &.smlg-brand {
             @media #{$smlg-device} {
                 width: 250px;
             }
         }
-
         &::after {
             content: '';
             position: absolute;
@@ -250,14 +229,12 @@
             z-index: -1;
             border-radius: 8px;
         }
-
         &:hover {
             &::after {
                 opacity: 1;
             }
         }
     }
-
     .thumbnail {
         img {
             width: 265px;
@@ -266,25 +243,21 @@
             object-fit: contain;
             text-align: center;
             display: inline-block;
-
             @media #{$lg-layout} {
                 height: 150px;
                 padding: 30px;
                 object-fit: contain;
             }
-
             @media #{$md-layout} {
                 padding: 30px;
                 object-fit: contain;
                 height: 148px !important;
             }
-
             @media #{$sm-layout} {
                 height: 148px !important;
                 padding: 30px;
                 object-fit: contain;
             }
-
             @media #{$small-mobile} {
                 height: 148px !important;
                 padding: 30px;
@@ -292,11 +265,9 @@
             }
         }
     }
-
     .seperator {
         position: relative;
         z-index: 2;
-
         &::after {
             content: '';
             position: absolute;
@@ -308,19 +279,15 @@
             z-index: -1;
         }
     }
-
     .client-name {
         padding: 16px;
         color: #7c838e;
-
         a {
             transition: var(--transition);
             color: #7c838e;
-
             &:hover {
                 color: var(--color-primary);
             }
-
             span {
                 color: var(--color-light);
                 font-size: 16px;
@@ -348,7 +315,6 @@
     }
 }
 
-
 // client area start
 .rn-client-style-2 {
     .skill-style-1 {
@@ -358,48 +324,37 @@
         justify-content: center;
         width: 100%;
     }
-
     .client-card .main-content .client-name a {
         color: var(--color-lightn);
-
         &:hover {
             color: var(--color-primary);
         }
     }
-
     .client-card {
         justify-content: center;
         margin-top: 20px;
-
         @media #{$md-layout} {
             margin-top: 15px;
         }
-
         @media #{$sm-layout} {
             margin-top: 15px;
         }
     }
-
     .client-card {
         .main-content {
             flex-basis: 25%;
-
             @media #{$sm-layout} {
                 flex-basis: 50%;
             }
-    
             @media #{$large-mobile} {
                 flex-basis: 50%;
             }
-    
             @media #{$small-mobile} {
                 flex-basis: 80%;
             }
-    
             @media #{$md-layout} {
                 flex-basis: 33%;
             }
-    
             .thumbnail {
                 img {
                     height: auto;
@@ -411,5 +366,3 @@
         padding: 0;
     }
 }
-
-
