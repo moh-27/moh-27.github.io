@@ -1,5 +1,5 @@
 # moh-27.github.io
-My personal website [mohammed-alsaggaf.com](https://mohammed-alsaggaf.com), Where you could get to know me and reach me easly.
+My personal website [mohammed-alsaggaf.com](https://mohammed-alsaggaf.com), where you could get to know me and reach me easly.
  
 
 This website desinged to be reponsive with deffierent deivces.
