@@ -1,5 +1,14 @@
 # moh-27.github.io
-My personal website [mohammed-alsaggaf.com](https://mohammed-alsaggaf.com)
+My personal website [mohammed-alsaggaf.com](https://mohammed-alsaggaf.com), Where you could get to know me and reach me easly.
+ 
+
+This website desinged to be reponsive with deffierent deivces.
+Used Technologies:
+- HTML
+- CSS
+- SSCS
+- JavaScript
+- Bootstrap
 
 Desktop Version:
 
