@@ -3,7 +3,7 @@ My personal website [mohammed-alsaggaf.com](https://mohammed-alsaggaf.com), wher
  
 
 This website desinged to be reponsive with deffierent deivces.
-Used Technologies:
+Implemented technologies:
 - HTML
 - CSS
 - SSCS
