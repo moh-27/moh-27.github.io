@@ -6,7 +6,7 @@ This website desinged to be reponsive with deffierent deivces.
 Implemented technologies:
 - HTML
 - CSS
-- SSCS
+- SCSS
 - JavaScript
 - Bootstrap
 
